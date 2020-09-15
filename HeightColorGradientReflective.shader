@@ -1,4 +1,4 @@
-// HeightColorGradient by @Doomlaser
+// HeightColorGradient by Mark Johns - @Doomlaser - https://doomlaser.com -  https://twitter.com/Doomlaser
 // Set two colors to blend, min and max distance define the bottom and top Y values between which the colors will blend
 Shader "Custom/HeightColorGradientReflective" 
 {
