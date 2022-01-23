@@ -1,5 +1,6 @@
 // HeightColorGradient by @Doomlaser
 // Set two colors to blend, min and max distance define the bottom and top Y values between which the colors will blend
+// Created by Mark Johns - https://twitter.com/Doomlaser
 Shader "Custom/HeightColorBlendRelative" 
 {
     Properties
